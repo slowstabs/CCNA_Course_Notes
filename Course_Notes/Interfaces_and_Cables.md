@@ -38,7 +38,7 @@ Ethernet standards are:
 
 ETHERNET STANDARDS (COPPER)
 
-| Speed | Common Name | Standard | Cable Type | Max Transmission Distance |
+| Speed | Common Name | Standard | Cable Type or Informal Name| Max Transmission Distance |
 | --- | --- | --- | --- | --- |
 | 10 Mbps | Ethernet | 802.3i | 10BASE-T | 100m Max |
 | 100 Mbps | Fast Ethernet | 802.3u | 100BASE-T | 100m Max |
